@@ -43,6 +43,7 @@ public class AlertsNew {
 		System.out.println(ale.getText());
 		ale.sendKeys("Hey");
 		ale.accept();
+		//test
 	
 		
 	}
